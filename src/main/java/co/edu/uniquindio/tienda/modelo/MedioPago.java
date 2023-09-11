@@ -4,6 +4,7 @@ public enum MedioPago {
 
     DEBITO,
     CREDITO,
-    EFECTIVO
+    EFECTIVO,
+    CUOTAS
 
 }
